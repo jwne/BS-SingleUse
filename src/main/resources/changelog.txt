@@ -10,6 +10,14 @@ You want your VIPs to be able to become invincible but you are afraid of abusing
 
 <</quote>>
 
+v1.2.0 **(REQUIRES BOSSSHOP v2.1.0 or newer):
+*[IMPROVE] Data is converted to UUIDs on player joins
+
+*[UPDATE] Updated to BossShop v1.9.0
+*[ADD] Items players can't buy anymore are hidden now (Optional feature)
+*[IMPROVE] Now you can set the amount of times the players can purchase the items - instead of setting them either to infinite- or single-use-items.
+
+
 v1.1.0 **(REQUIRES BOSSSHOP v1.9.0 or newer. Sorry for that... Important parts of BossShop were rewritten and work way better now!)**:
 
 *[UPDATE] Updated to BossShop v1.9.0
