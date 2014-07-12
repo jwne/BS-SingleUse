@@ -1,0 +1,7 @@
+name: BS-SingleUse
+version: ${project.version}
+description: BossShop Addon
+author: Black_ixx
+website: http://felix.neuby.de
+main: org.black_ixx.bossshop.addon.singleuse.SingleUse
+depend: [BossShop]
